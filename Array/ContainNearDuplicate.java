@@ -31,8 +31,8 @@ public class ContainNearDuplicate {
         for(int i = 0; i < nums.length; i++) {
             if(map.containsKey(nums[i]) && Math.abs(map.get(nums[i]) - i) <= k)
                 return true;
-            // Insert an entry if the current element is an existing key and its index in the map, when subtracted by the current index of the array is <=k
-            // The element are key and  the index are the value 
+            // Insert an entry if the current element is an existing key and its index in the map, when subtracted from the current index of the array is <=k
+            // The elements are key and  the indices are the value in the Map
             //  If the map formerly contained an entry for the specified key, the old value is replaced by the new value and the old value associated with the key is returned.
             map.put(nums[i], i); // 
         }
