@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ProductofArrayExceptSelf",
+            "request": "launch",
+            "mainClass": "ProductofArrayExceptSelf",
+            "projectName": "Leetcode_2de69c27"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
