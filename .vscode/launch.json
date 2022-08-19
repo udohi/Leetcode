@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContainDuplicate",
+            "request": "launch",
+            "mainClass": "ContainDuplicate",
+            "projectName": "Leetcode_2de69c27"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContainNearDuplicate",
+            "request": "launch",
+            "mainClass": "ContainNearDuplicate",
+            "projectName": "Leetcode_2de69c27"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSortedArrays",
+            "request": "launch",
+            "mainClass": "MergeSortedArrays",
+            "projectName": "Leetcode_2de69c27"
+        },
+        {
+            "type": "java",
+            "name": "Launch MissingNumber",
+            "request": "launch",
+            "mainClass": "MissingNumber",
+            "projectName": "Leetcode_2de69c27"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueConcept",
+            "request": "launch",
+            "mainClass": "QueueConcept",
+            "projectName": "Leetcode_2de69c27"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "RemoveDuplicates",
+            "projectName": "Leetcode_2de69c27"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingleNumber",
+            "request": "launch",
+            "mainClass": "SingleNumber",
+            "projectName": "Leetcode_2de69c27"
+        },
+        {
+            "type": "java",
+            "name": "Launch TopKFrequent",
+            "request": "launch",
+            "mainClass": "TopKFrequent",
+            "projectName": "Leetcode_2de69c27"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoNumbers",
+            "request": "launch",
+            "mainClass": "TwoNumbers",
+            "projectName": "Leetcode_2de69c27"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidAnagram",
+            "request": "launch",
+            "mainClass": "ValidAnagram",
+            "projectName": "Leetcode_2de69c27"
+        }
+    ]
+}
